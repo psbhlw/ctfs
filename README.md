@@ -1,2 +1,3 @@
-# ctfs
-capture-the-flag
+# CTF games stuff
+
+Write-ups and sources.
